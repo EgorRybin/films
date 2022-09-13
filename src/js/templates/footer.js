@@ -3,3 +3,4 @@ function footerDate() {
   footerDate.innerHTML = new Date().getFullYear();
 }
 footerDate();
+// footer
